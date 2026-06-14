@@ -1,4 +1,4 @@
-# Davide Negri
+# Applied AI / RAG engineer
 
 **Applied AI / RAG developer — production retrieval systems, local-first inference, evaluation rigor.**
 
